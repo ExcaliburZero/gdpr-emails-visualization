@@ -1,3 +1,5 @@
+![A screenshot of the data visualization](thumbnail.png)
+
 About the Data
 --------------
 
